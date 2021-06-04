@@ -1,0 +1,62 @@
+<ul class="navbar-nav mr-auto">
+	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li>
+	        	<li class="nav-item"><a href="teacher.html" class="nav-link">Staff</a></li>
+	        	<li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                About
+				</a>
+				 <div class="dropdown-menu">
+                    <a href="#" class="dropdown-item">Commissioner</a>
+                    <a href="#" class="dropdown-item">Academic Council</a>
+                    <a href="#" class="dropdown-item">Finance Committee</a>
+                    <a href="#"class="dropdown-item">Hallmarks</a>
+                    <a href="#" class="dropdown-item">Principal’s Message</a>
+	            </div>
+			</li>
+
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+					Aims and Objectives
+				</a>
+				<div id="Aims and Objectives" class="w3-dropdown-content w3-bar-block w3-card">
+        <a href="#" class="w3-bar-item w3-button">Goals</a>
+        <a href="#" class="w3-bar-item w3-button">Vision and Mission</a>
+        
+	</div>
+			</li>
+
+
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+					Departments
+				</a>
+				<div class="dropdown-menu" >
+        <a href="#" class="dropdown-item">Computer Engineering</a>
+        <a href="#" class="dropdown-item">Electronics and Communication Engineering</a>
+        <a href="#" class="dropdown-item">Electrical and Electronics Engineering</a>
+		<a href="#" class="dropdown-item">Mechanical Engineering</a>
+	 	
+	</div>
+			</li>
+
+
+
+
+            
+			<li class="nav-item dropdown">
+				<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+					Dropdown link
+				</a>
+				<div class="dropdown-menu">
+					<a class="dropdown-item" href="#">Link 1</a>
+					<a class="dropdown-item" href="#">Link 2</a>
+					<a class="dropdown-item" href="#">Link 3</a>
+				</div>
+			</li>
+
+	        </ul>
